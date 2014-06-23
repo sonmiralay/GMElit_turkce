@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="album_values" />
+    <array name="album_entries" />
+    <string-array name="regular_day_entries">
+        <item>7 days</item>
+        <item>14 days</item>
+        <item>30 days</item>
+    </string-array>
+    <string-array name="regular_day_values">
+        <item>7</item>
+        <item>14</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_backup_item_entries">
+        <item>Contacts</item>
+        <item>SMS</item>
+        <item>Call Log</item>
+        <item>Calendar</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="auto_backup_item_entries_without_email">
+        <item>Contacts</item>
+        <item>SMS</item>
+        <item>Call Log</item>
+        <item>Calendar</item>
+    </string-array>
+    <string-array name="auto_backup_item_entries_without_calendar">
+        <item>Contacts</item>
+        <item>SMS</item>
+        <item>Call Log</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="auto_backup_item_entries_without_all">
+        <item>Contacts</item>
+        <item>SMS</item>
+        <item>Call Log</item>
+    </string-array>
+    <string-array name="auto_backup_item_values">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>64</item>
+    </string-array>
+</resources>
