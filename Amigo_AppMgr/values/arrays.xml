@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="title_group_move_package">
-        <item>Applications On Internal</item>
-        <item>Applications On SDCard</item>
+        <item>Dahilideki Uygulamalar</item>
+        <item>SDCarddaki Uygulamalar</item>
     </string-array>
     <string-array name="title_group_move_package1">
-        <item>Applications On System Space</item>
-        <item>Applications On Internal</item>
+        <item>Sistem Boşluğundaki Uygulamalar</item>
+        <item>Dahilideki Uygulamalar</item>
     </string-array>
     <string-array name="ui_privacy_policy">
-        <item>Call Phone</item>
-        <item>Send SMS</item>
-        <item>Send MMS</item>
-        <item>Call Log</item>
-        <item>Read SMS</item>
-        <item>Read MMS</item>
-        <item>Read Contacts</item>
-        <item>GPS Location</item>
-        <item>Network Location</item>
-        <item>Phone Status</item>
-        <item>Write/Delete SMS</item>
-        <item>Write/Delete MMS</item>
-        <item>Write/Delete Contacts</item>
-        <item>Write/Delete Call log</item>
-        <item>Sound Record</item>
-        <item>Camera</item>
-        <item>Mobile Network</item>
-        <item>Wi-Fi Network</item>
+        <item>Telefonu Arama</item>
+        <item>SMS Gönder</item>
+        <item>MMS Gönder</item>
+        <item>Arama Kaydı</item>
+        <item>SMS oku</item>
+        <item>MMS oku</item>
+        <item>Kişileri oku</item>
+        <item>GPS Konumu</item>
+        <item>Ağ Konumu</item>
+        <item>Telefon Durumu</item>
+        <item>SMS Yaz/Sil</item>
+        <item>MMS Yaz/Sil</item>
+        <item>Kişiler Yaz/Sil</item>
+        <item>Arama Kaydı Yaz/Sil</item>
+        <item>Ses Kaydet</item>
+        <item>Kamera</item>
+        <item>Mobil ağ</item>
+        <item>Wi-Fi ağı</item>
         <item>Bluetooth</item>
-        <item>Bluetooth Pairing</item>
+        <item>Bluetooth Eşleştirme</item>
         <item>NFC</item>
     </string-array>
     <string-array name="permission_summary">
